@@ -1,0 +1,7 @@
+local plr = game.Players.LocalPlayer
+local wln = plr.Name == "kaka43242" or plr.Name == "WhyHaruki" or plr.Name == "ZoNERT1233" or plr.Name == "wow_hack123255"
+if wln then
+    print("избранный")
+else
+    plr:Kick("garik6525")
+end
