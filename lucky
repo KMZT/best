@@ -1,5 +1,5 @@
 local plr = game.Players.LocalPlayer
-local wln = plr.Name == "kaka43242" or plr.Name == "WhyHaruki" or plr.Name == "ZoNERT1233" or plr.Name == "wow_hack123255"
+local wln = plr.Name == "kaka43242" or plr.Name == "WhyHaruki" or plr.Name == "ZoNERT1233" or plr.Name == "wow_hack123255" or plr.Name == "ebatxyilozyy"
 if wln then
     print("избранный")
 else
